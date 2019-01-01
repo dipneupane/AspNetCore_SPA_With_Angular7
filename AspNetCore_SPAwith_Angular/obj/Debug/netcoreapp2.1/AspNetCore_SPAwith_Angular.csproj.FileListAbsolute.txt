@@ -1,0 +1,14 @@
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\bin\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.deps.json
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\bin\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.runtimeconfig.json
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\bin\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.runtimeconfig.dev.json
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\bin\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.dll
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\bin\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.pdb
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\obj\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.csprojAssemblyReference.cache
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\obj\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.csproj.CoreCompileInputs.cache
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\obj\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.RazorAssemblyInfo.cache
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\obj\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.RazorAssemblyInfo.cs
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\obj\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.AssemblyInfoInputs.cache
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\obj\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.AssemblyInfo.cs
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\obj\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.RazorTargetAssemblyInfo.cache
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\obj\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.dll
+C:\Users\sangrila\Desktop\AspNetCore_SPAwith_Angular\AspNetCore_SPAwith_Angular\obj\Debug\netcoreapp2.1\AspNetCore_SPAwith_Angular.pdb
